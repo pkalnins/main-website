@@ -9,26 +9,28 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 .page__content {
-    font-size: 0.85em; /* 95% of default */
-    line-height: 1.6;  /* adjust spacing if needed */
-  }
-  
-.page__content {
+    font-size: 0.80em; /* 95% of default */
+    line-height: 1.5;  /* adjust spacing if needed */
     max-width: 800px;
     margin: 0 auto;
   }
 
-.feature__item {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
   
-.feature__item .archive__item-excerpt {
-    flex-grow: 1; /* pushes the button to the bottom */
+.feature__item .archive__item-teaser + .archive__item-body {
+    text-align: center;
   }
   
 .feature__item .btn {
-    margin-top: auto; /* aligns all buttons to bottom */
+    display: inline-block;
+    margin: 1rem auto 0;
   }
   
+// Sticky nav bar for Minimal Mistakes
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background-color: #fff; /* or match your theme */
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+}
+

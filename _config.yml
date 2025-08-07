@@ -42,6 +42,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/pkalnins"
+    - label: "Substack"
+      #icon: "fab fa-rss"
+      url: "https://pkalnins/substack.com"
+      type: "external"
 
 
 # Navigation
