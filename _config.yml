@@ -4,8 +4,8 @@ title: "Paul Kalnins, ND, MS"
 email: "drpkalnins@gmail.com"
 description: >-
   Exploring health, medicine, and research through systems and network science.
-#baseurl: ""
-baseurl: "/main-website"
+baseurl: ""
+#baseurl: "/main-website"
 url: "https://pkalnins.github.io"
 minimal_mistakes_skin: "default"
 
