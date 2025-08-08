@@ -22,7 +22,7 @@ I offer telemedicine (video or phone) consultations for individuals seeking **na
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
-  <div style="flex: 1 1 300px; background-color: #e7f3ff; border: 1px solid #b3d7f5; border-radius: 6px; padding: 1rem; font-size: 0.75rem;">
+  <div style="flex: 1 1 300px; background-color: #e7f3ff; border: 1px solid #b3d7f5; border-radius: 6px; padding: 1rem; font-size: 0.90rem;">
     <h3 style="margin-top: 0;">Initial Consultation</h3>
     <p><strong>$225</strong> <em>(60 minutes)</em></p>
 
@@ -31,7 +31,7 @@ I offer telemedicine (video or phone) consultations for individuals seeking **na
     <p>You will receive a personalized health plan with diet, lifestyle, herbal, and micronutrient recommendations. If additional testing or referrals are needed, we will discuss those as well.</p>
   </div>
 
-  <div style="flex: 1 1 300px; background-color: #e9f7ef; border: 1px solid #c3e6cb; border-radius: 6px; padding: 1rem; font-size: 0.75rem;">
+  <div style="flex: 1 1 300px; background-color: #e9f7ef; border: 1px solid #c3e6cb; border-radius: 6px; padding: 1rem; font-size: 0.90rem;">
     <h3 style="margin-top: 0;">Follow-Up Visit</h3>
     <p><strong>$100</strong> <em>(30 minutes)</em></p>
     <p>Follow-up visits are for established patients. We will review your progress, address any new concerns, and adapt your treatment plan as needed.</p>
