@@ -46,18 +46,21 @@ I offer telemedicine (video or phone) consultations for individuals seeking **na
 📅 **Ready to book an appointment?**  
 Choose your visit type below:
 
-<div>
-  <a class="btn" style="background-color: #007bff; color: white;" href="https://my.practicebetter.io/#/6244c22f467e5f79ffbfe4db/bookings?r=625229d27856dc6c6749f590" target="_blank" rel="noopener">
+<div style="display: flex; flex-direction: column; gap: 10px; max-width: 300px; margin: auto;">
+  <a class="btn"
+     style="background-color: #007bff; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+     href="https://my.practicebetter.io/#/6244c22f467e5f79ffbfe4db/bookings?r=625229d27856dc6c6749f590"
+     target="_blank" rel="noopener">
     New Patient Appointment
   </a>
-  <a class="btn" style="background-color: #28a745; color: white;" href="https://client.practicebetter.io/#/signin" target="_blank" rel="noopener">
+  <a class="btn"
+     style="background-color: #28a745; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+     href="https://client.practicebetter.io/#/signin"
+     target="_blank" rel="noopener">
     Returning Patient Appointment
   </a>
 </div>
 
-<div style="margin-top: 1rem;"></div>
-
-<div style="background-color: #fffbe6; border: 1px solid #ffe58f; border-radius: 6px; padding: 1rem; font-size: 0.75rem;">
 
   <h3 style="margin-top: 0;">Please Note</h3>
 
