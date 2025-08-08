@@ -3,7 +3,7 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Or whatever your source branch is
+      - main
 
 jobs:
   github-pages:
@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Ruby
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1  # Match your local Ruby version
+          ruby-version: '3.1'
           bundler-cache: true
 
       - name: Install dependencies
@@ -23,8 +23,12 @@ jobs:
       - name: Build the site
         run: bundle exec jekyll build
 
+      - name: Add .nojekyll
+        run: touch _site/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          publish_branch: gh-pages  # explicitly define the branch
