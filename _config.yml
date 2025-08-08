@@ -4,6 +4,7 @@ title: "Paul Kalnins, ND, MS"
 email: "drpkalnins@gmail.com"
 description: >-
   Exploring health, medicine, and research through systems and network science.
+#baseurl: ""
 baseurl: "/main-website"
 url: "https://pkalnins.github.io"
 minimal_mistakes_skin: "default"
@@ -43,9 +44,9 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/pkalnins"
     - label: "Substack"
-      #icon: "fab fa-rss"
-      url: "https://pkalnins/substack.com"
-      type: "external"
+      icon: "fab fa-pen-nib"
+      url: "https://pkalnins.substack.com"
+      
 
 
 # Navigation
@@ -65,6 +66,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/pkalnins"
+    - label: "Substack"
+      icon: "fas fa-pen-nib"  # use any Font Awesome icon you like
+      url: "https://pkalnins.substack.com"
+      type: "external"
 
 # Theme settings
 theme: minimal-mistakes-jekyll
@@ -87,5 +92,4 @@ defaults:
 include:
   - _pages
 
-exlude: 
-  - docs
+
