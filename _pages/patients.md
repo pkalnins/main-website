@@ -46,32 +46,30 @@ I offer telemedicine (video or phone) consultations for individuals seeking **na
 📅 **Ready to book an appointment?**  
 Choose your visit type below:
 
-<div style="display: flex; flex-direction: column; gap: 10px; max-width: 300px; margin: auto;">
-  <a class="btn"
-     style="background-color: #007bff; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
-     href="https://my.practicebetter.io/#/6244c22f467e5f79ffbfe4db/bookings?r=625229d27856dc6c6749f590"
-     target="_blank" rel="noopener">
-    New Patient Appointment
-  </a>
-  <a class="btn"
-     style="background-color: #28a745; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
-     href="https://client.practicebetter.io/#/signin"
-     target="_blank" rel="noopener">
-    Returning Patient Appointment
-  </a>
-</div>
+<div style="max-width: 600px; margin: 20px auto;">
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <a class="btn"
+       style="background-color: #007bff; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+       href="https://my.practicebetter.io/#/6244c22f467e5f79ffbfe4db/bookings?r=625229d27856dc6c6749f590"
+       target="_blank" rel="noopener">
+      New Patient Appointment
+    </a>
+    <a class="btn"
+       style="background-color: #28a745; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+       href="https://client.practicebetter.io/#/signin"
+       target="_blank" rel="noopener">
+      Returning Patient Appointment
+    </a>
+  </div>
 
-
-  <h3 style="margin-top: 0;">Please Note</h3>
-
-  <ul style="margin-top: 0;">
+  <h3 style="margin: 16px 0 8px;">Please Note</h3>
+  <ul style="margin: 0; padding-left: 1.2em;">
     <li>I am not an in-network provider for private insurance plans.</li>
     <li>I do not bill insurance directly.</li>
     <li><em>Payment is due at the time of service.</em></li>
     <li>Oregon residents may request a <strong>Superbill</strong> to submit for possible reimbursement.</li>
     <li><strong>Questions?</strong> <a href="mailto:drpkalnins@gmail.com">Contact me</a></li>
   </ul>
-
 </div>
 
 ## Frequently Asked Questions
