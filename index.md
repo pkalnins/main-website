@@ -27,34 +27,34 @@ core_services:
 
   - image_path: /assets/images/data-science.jpg
     alt: "Data Science"
-    title: "Data Science"
-    excerpt: "Consulting on research using wearable data, HRV, and systems-based health analytics. Bridging physiology with precision medicine."
-    url: "/writing-research/"
+    title: "Consulting"
+    excerpt: "Open to collaboration and consulting on biomedical data science projects using wearable data, HRV, and systems-based analytics."
+    url: "/consulting/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
 ---
 
 ## Welcome
 
-I’m **Paul Kalnins, ND, MS** — a licensed naturopathic physician, medical educator, and researcher based in Portland, Oregon.  
+I’m **Paul Kalnins, ND, MS** — a licensed naturopathic physician, educator, and researcher based in Portland, Oregon.
 
-I have been in practice since 1998, offering **Telehealth consultations** for clients seeking complementary and integrative solutions to their health concerns.
+My work centers around a core inquiry: how can **systems science and network physiology** bridge traditional healing systems with modern biomedical insights?  
 
-My overarching focus is applying **systems and network science** to medicine—linking insights from modern biomedicine with traditional healing frameworks to better understand and support health. This approach informs all my work, whether in clinical care, teaching, or research.
+I explore this question through **patient care, research, mentorship, and writing** — integrating tools from clinical practice, digital health, and complexity science to support whole-person healing.
 
+---
 
-## Core Services
+## Core Activities
 
 {% include feature_row id="core_services" %}
 
-
-
+---
 
 ## Explore the Site
 
-- **[About]({{ site.baseurl }}/about/)** – Learn more about my background and work
-- **[Patients]({{ site.baseurl }}/patients/)** – Information and resources for patients
-- **[Mentorship]({{ site.baseurl }}/mentorship/)** – Details about mentorship opportunities
-- **[Writing & Research]({{ site.baseurl }}/writing-research/)** – Articles, publications, and ongoing projects
+- **[About]({{ site.baseurl }}/about/)** – Learn more about my background and work  
+- **[Patients]({{ site.baseurl }}/patients/)** – Information and resources for patients  
+- **[Mentorship]({{ site.baseurl }}/mentorship/)** – Details about mentorship opportunities  
+- **[Consulting]({{ site.baseurl }}/consulting/)** – Biomedical data science collaboration  
+- **[Writing & Research]({{ site.baseurl }}/writing-research/)** – Articles and ongoing projects  
 - **[Portfolio & CV]({{ site.baseurl }}/portfolio-cv/)** – My professional portfolio and curriculum vitae

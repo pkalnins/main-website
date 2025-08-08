@@ -6,6 +6,8 @@ main:
     url: /patients/
   - title: "Mentorship"
     url: /mentorship/
+  - title: "Consulting"
+    url: /consulting/
   - title: "Writing"
     url: /writing-research/
   - title: "Portfolio & CV"
