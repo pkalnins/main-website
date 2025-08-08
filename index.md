@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Home"
+title: "Paul Kalnins, ND, MS"
 permalink: /
 header:
   overlay_color: "#000"
