@@ -20,6 +20,12 @@ We will explore how to interpret and work with complex patient presentations thr
 
 **Interested in Joining?**
 
-- Please [email me](mailto:drpkalnins@gmail.com) to express interest or with any questions.
+<div style="text-align:center; margin: 2em 0;">
+  <a href="https://forms.gle/upSS4sRScfcUbJMQ6" 
+     class="btn btn--primary btn--large" 
+     target="_blank" rel="noopener">
+    Join the Mentorship Group
+  </a>
+</div>
 
-- If there is room in the group, you’ll receive a secure Stripe payment link and Zoom access details.
+If there is room in the group, you’ll receive a secure Stripe payment link and Zoom access details. Otherwise, you'll be added to the waitlist and I'll let you know when there is an opening.  
