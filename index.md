@@ -58,3 +58,9 @@ I explore this question through **patient care, research, mentorship, and writin
 - **[Consulting]({{ site.baseurl }}/consulting/)** – Biomedical data science collaboration  
 - **[Writing & Research]({{ site.baseurl }}/writing-research/)** – Articles and ongoing projects  
 - **[Portfolio & CV]({{ site.baseurl }}/portfolio-cv/)** – My professional portfolio and curriculum vitae
+
+## Support my Work!
+
+If you enjoy my writing and research, you can support it here:  
+[☕ Buy Me a Coffee](https://www.buymeacoffee.com/pkalnins)
+
