@@ -29,3 +29,7 @@ We will explore how to interpret and work with complex patient presentations thr
 </div>
 
 If there is room in the group, you’ll receive a secure Stripe payment link and Zoom access details. Otherwise, you'll be added to the waitlist and I'll let you know when there is an opening.  
+
+**Questions?**
+
+Email me at: drpkalnins@gmail.com
