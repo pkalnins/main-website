@@ -32,4 +32,5 @@ If there is room in the group, you’ll receive a secure Stripe payment link and
 
 **Questions?**
 
-Email me at: drpkalnins@gmail.com
+If you’d like to learn more or join the mentorship group, feel free to [email me](mailto:drpkalnins@gmail.com).
+
