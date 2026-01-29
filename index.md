@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.png
 excerpt: >
-  Bridging traditional healing and modern science through systems and network-based medicine
+  Independent Researcher in Systems & Network Medicine Integrating Clinical Insight with Biomedical Data
 core_services:
   - image_path: /assets/images/telehealth.jpg
     alt: "Telehealth"
