@@ -28,8 +28,10 @@ My broader research interests center on translating complexity science into clin
 
 ## Methods & Technical Expertise
 - Machine learning and statistical modeling (Python, R, SQL)
+- Deep learning (PyTorch, TensorFlow)
 - Time-series analysis and physiological signal processing (HRV, ECG, PPG)
 - Multimodal data integration (EHR + wearables + laboratory data)
+- Clinical informatics and real-world data pipelines (FHIR-based EHR extraction, cohort construction, longitudinal analysis)
 - Interpretable AI (SHAP, ROC-AUC, precision/recall analysis)
 - Reproducible research workflows (Git, Jupyter, cloud-based pipelines)
 
@@ -100,5 +102,5 @@ Extensive experience in graduate-level medical education, including systems phys
 ---
 
 ## Recent Coursework (OHSU)
-Biomedical Informatics • Clinical Informatics • Biostatistics • Probability & Statistical Inference • Bioinformatics Algorithms • Programming & Scripting • Network Science & Biology • Machine Learning • Clinical Research Informatics • Scientific Writing & CommunicationStress Resilience • Machine learning • Deep learning
+Biomedical Informatics • Clinical Informatics • Biostatistics • Probability & Statistical Inference • Bioinformatics Algorithms • Programming & Scripting • Network Science & Biology • Machine Learning • Clinical Research Informatics • Scientific Writing & Communication • Stress Resilience • Machine learning • Deep learning
 
