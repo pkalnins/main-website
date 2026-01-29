@@ -5,21 +5,32 @@ layout: single
 author_profile: true
 ---
 
-## My Mission
-Through teaching, research, and clinical practice, my mission is to offer integrative, evidence-informed care that supports the body’s innate capacity for healing.  
+I am an independent researcher, biomedical data scientist, and naturopathic physician focused on applying systems science and network physiology to understanding health, resilience, and chronic disease.
+My work investigates how multi-organ physiological networks, clinical biomarkers, and real-world electronic health record (EHR) data can be integrated into practical models of whole-person health. I am particularly interested in translating complexity science into clinically meaningful frameworks that support prevention, recovery, and long-term resilience.
 
-## Family & Early Inspiration
-Medicine has been in my family for generations—my father was a surgeon, and my grandfather a family doctor trained in Latvia before WWII. From childhood, I was equally drawn to nature and science, spending hours collecting plants and insects, conducting basement chemistry experiments, and poring over my father’s medical books.  
+## Research Focus
+My current research centers on:
+- Organ-level physiological network modeling
+- Computational analysis of EHR-derived clinical phenotypes
+- Digital health and wearable data integration
+- Systems approaches to metabolic and inflammatory disease
+- Methods for identifying vulnerability and resilience across interconnected biological systems
 
-## Academic Path
-This curiosity led me to earn degrees in physics and mathematics, with additional studies in biology and philosophy. Yet I soon became disillusioned with the purely reductionist view of life in mainstream science, sensing there must be higher organizing principles that govern living systems. Seeking a more holistic framework, I earned a doctorate in naturopathic medicine (ND) and a master’s in Oriental medicine (MSOM) from the National University of Natural Medicine (NUNM) in 1998.  
+I recently completed a two-year National Library of Medicine postdoctoral fellowship in bioinformatics and computational biomedicine at Oregon Health & Science University (OHSU), where my work focused on multimodal health data, predictive modeling, and systems biology.
 
-## Clinical & Teaching Experience
-My training included study trips to China, where I learned meditation and Qigong in Taoist and Buddhist monasteries and observed herbalists in traditional medicine hospitals. I went on to complete a residency in naturopathic primary care and later spent nearly two decades at NUNM as an assistant professor, teaching physiology, biochemistry, herbal pharmacology, pathology, and endocrinology, while supervising students in clinical practice.  
+Currently, I'm pursuing collaborative projects spanning clinical informatics, network medicine, and integrative health systems.
 
-## Research & Postdoctoral Work
-Alongside teaching, I developed a strong interest in research—mentoring student-led clinical trials, completing coursework in biostatistics and evidence-based medicine, and in 2016, studying East African herbal traditions in Tanzania. Most recently, I completed a two-year NLM postdoctoral fellowship in bioinformatics and computational biomedicine at Oregon Health & Science University (OHSU), focusing on the intersection of wearable health data, systems biology, and predictive modeling.  
+## Clinical & Educational Background
+I earned my Doctorate in Naturopathic Medicine (ND) and Master of Science in Oriental Medicine (MSOM) from the National University of Natural Medicine (NUNM) in 1998. Following residency training in naturopathic primary care, I spent nearly two decades as an assistant professor at NUNM, teaching physiology, biochemistry, pathology, endocrinology, and herbal pharmacology, while serving as an attending physician in teaching clinics.
 
-## Integrative Approach
-My work is deeply influenced by anthroposophical medicine, founded by Rudolf Steiner and Ita Wegman, which extends conventional medicine beyond reductionism and molecular mechanisms to include more subtle dimensions of human health. Drawing from multiple traditions and modern science, I integrate these perspectives into a unique, patient-centered approach—helping people restore balance, resilience, and vitality.  
+This extended clinical and teaching experience informs my research by grounding computational models in real-world patient care and longitudinal clinical patterns.
 
+## Education & Training
+My academic background includes early training in physics and mathematics, with additional studies in biology and philosophy. This interdisciplinary foundation continues to shape my approach to biological systems as dynamic, interconnected networks rather than isolated mechanisms.
+
+In addition to formal graduate training, I have pursued ongoing education in biostatistics, evidence-based medicine, computer programming (Python, R, Javascript), machine/deep learning, and clinical research methods, and have mentored student-led clinical research projects.
+
+## Integrative Perspective
+My work is informed by both modern systems science and traditional medical frameworks, including East Asian and anthroposophical medicine. These perspectives emphasize pattern recognition, organism-level coherence, and the role of regulatory balance in health.
+
+Rather than viewing these traditions as alternatives to biomedicine, I see them as complementary conceptual models that can help guide hypothesis generation and systems-level interpretation when paired with rigorous computational and clinical methods.
