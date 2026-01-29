@@ -14,8 +14,6 @@ core_services:
     title: "Telehealth"
     excerpt: "Telemedicine consults for endocrine, nervous, immune, and organ system health using nutritional, herbal, and integrative strategies."
     url: "/patients/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/mentorship.png
     alt: "Teaching"
