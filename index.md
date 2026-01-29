@@ -42,19 +42,4 @@ I develop computational and clinical models that examine health as an interconne
 
 {% include feature_row id="core_services" %}
 
----
-
-## Explore the Site
-
-- **[About]({{ site.baseurl }}/about/)** – Learn more about my background and work  
-- **[Patients]({{ site.baseurl }}/patients/)** – Information and resources for patients  
-- **[Mentorship]({{ site.baseurl }}/mentorship/)** – Details about mentorship opportunities  
-- **[Consulting]({{ site.baseurl }}/consulting/)** – Biomedical data science collaboration  
-- **[Writing & Research]({{ site.baseurl }}/writing-research/)** – Articles and ongoing projects  
-- **[Portfolio & CV]({{ site.baseurl }}/portfolio-cv/)** – My professional portfolio and curriculum vitae
-
-## Support my Work!
-
-If you enjoy my writing and research, you can support it here:  
-[☕ Buy Me a Coffee](https://www.buymeacoffee.com/pkalnins)
 
