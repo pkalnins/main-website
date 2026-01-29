@@ -18,20 +18,21 @@ core_services:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/mentorship.png
-    alt: "Mentorship"
-    title: "Mentorship"
+    alt: "Teaching"
+    title: "Teaching"
     excerpt: "One-on-one mentorship for students and practitioners in naturopathic and herbal medicine, with a focus on systems-based clinical reasoning."
-    url: "/mentorship/"
+    url: "/teaching/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/data-science.jpg
-    alt: "Data Science"
-    title: "Consulting"
-    excerpt: "Open to collaboration and consulting on biomedical data science projects using wearable data, HRV, and systems-based analytics."
-    url: "/consulting/"
+    alt: "Research"
+    title: "Research"
+    excerpt: "Systems- and network-based biomedical research integrating EHR data, wearable analytics, and physiological modeling to study resilience, chronic disease, and whole-person health."
+    url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
 ---
 
 ## Welcome
