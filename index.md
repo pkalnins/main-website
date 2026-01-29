@@ -36,11 +36,10 @@ core_services:
 
 ## Welcome
 
-I’m **Paul Kalnins, ND, MS** — a licensed naturopathic physician, educator, and researcher based in Portland, Oregon.
+I’m Paul Kalnins, ND, MS — a naturopathic physician, biomedical data scientist, and independent researcher based in Portland, Oregon.
+My work explores how systems science and network physiology can bridge traditional healing frameworks with modern biomedical data.
 
-My work centers around a core inquiry: how can **systems science and network physiology** bridge traditional healing systems with modern biomedical insights?  
-
-I explore this question through **patient care, research, mentorship, and writing** — integrating tools from clinical practice, digital health, and complexity science to support whole-person healing.
+I develop computational and clinical models that examine health as an interconnected, multi-organ system — integrating electronic health record analytics, physiological networks, and whole-person clinical care. Through research, mentorship, and writing, I focus on building practical frameworks for understanding resilience, chronic disease, and recovery across biological scales.
 
 ---
 
