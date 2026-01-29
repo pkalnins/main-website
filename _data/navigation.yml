@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Patients"
     url: /patients/
-  - title: "Mentorship"
-    url: /mentorship/
-  - title: "Consulting"
-    url: /consulting/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
   - title: "Writing"
     url: /writing-research/
   - title: "Portfolio & CV"
