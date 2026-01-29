@@ -46,7 +46,7 @@ Areas of emphasis include:
 If there is room in the group, you’ll receive a secure Stripe payment link and Zoom access details. Otherwise, you'll be added to the waitlist and I'll let you know when there is an opening.  
 
 ## Open Educational Resources
-I have also made available a large archive of recorded lectures from my time teaching at the National University of Natural Medicine (NUNM), covering topics including physiology, endocrinology, pathology, and integrative clinical reasoning.
+I have also made available a large archive of recorded lectures from my time teaching at the National University of Natural Medicine (NUNM), covering topics including salutogenic medicine, physiology, endocrinology, pathology, and integrative clinical reasoning.
 
 These videos were originally created for graduate-level medical education and remain freely accessible as a resource for clinicians, students, and researchers interested in systems-oriented approaches to health.
 You can explore the full lecture series here:
