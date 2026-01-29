@@ -11,17 +11,33 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.url %}
+              <a href="{{ f.url | relative_url }}">
+                <img src="{{ f.image_path | relative_url }}"
+                     alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              </a>
+            {% else %}
+              <img src="{{ f.image_path | relative_url }}"
+                   alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% endif %}
+
             {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+              <span class="archive__item-caption">
+                {{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}
+              </span>
             {% endif %}
           </div>
         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2 class="archive__item-title">
+              {% if f.url %}
+                <a href="{{ f.url | relative_url }}">{{ f.title }}</a>
+              {% else %}
+                {{ f.title }}
+              {% endif %}
+            </h2>
           {% endif %}
 
           {% if f.excerpt %}
@@ -30,8 +46,16 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {%- comment -%}
+          Only render a button/link if btn_label is explicitly provided and non-empty.
+          This prevents the default "Learn More" from appearing.
+          {%- endcomment -%}
+          {% if f.url and f.btn_label and f.btn_label != "" %}
+            <p>
+              <a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class | default: 'btn--primary' }}">
+                {{ f.btn_label }}
+              </a>
+            </p>
           {% endif %}
         </div>
       </div>
