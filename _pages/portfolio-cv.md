@@ -3,12 +3,12 @@ layout: single
 #title: "Portfolio & CV"
 permalink: /portfolio-cv/
 ---
-## Paul Kalnins, ND, MS  
+# Paul Kalnins, ND, MS  
 Independent Researcher in Systems & Network Physiology\
 Biomedical Data Scientist | Computational Biologist
 
 
-### Research Profile   
+## Research Profile   
 I am an independent researcher and naturopathic physician working at the intersection of systems biology, network physiology, and clinical informatics. My work focuses on integrating electronic health record (EHR) data, wearable-derived physiological signals, and clinical biomarkers to develop multi-organ models of resilience, chronic disease, and recovery.
 
 I recently completed a National Library of Medicine (NLM) postdoctoral fellowship in bioinformatics and computational biomedicine at Oregon Health & Science University (OHSU), where I developed interpretable machine learning pipelines for multimodal health data, digital biomarker discovery, and systems-level prediction of metabolic and inflammatory risk.
@@ -17,7 +17,7 @@ My broader research interests center on translating complexity science into clin
 
 ---
 
-### Research Interests
+## Research Interests
 - Network physiology and multi-organ systems modeling
 - Digital biomarkers and wearable-derived autonomic metrics
 - Clinical informatics and EHR-based systems analysis
@@ -26,7 +26,7 @@ My broader research interests center on translating complexity science into clin
 
 ---
 
-### Methods & Technical Expertise
+## Methods & Technical Expertise
 - Machine learning and statistical modeling (Python, R, SQL)
 - Time-series analysis and physiological signal processing (HRV, ECG, PPG)
 - Multimodal data integration (EHR + wearables + laboratory data)
@@ -35,23 +35,27 @@ My broader research interests center on translating complexity science into clin
 
 ---
 
-### Education
+## Education
 **Master of Science, Bioinformatics & Computational Biomedicine**\
-Oregon Health & Science University (OHSU), Portland, OR | *2023-2025*
+*2023-2025*\
+Oregon Health & Science University (OHSU), Portland, OR
 
 **Doctorate, Naturopathic Medicine (ND)**\
-National University of Natural Medicine (NUNM), Portland, OR | *1993-1998*
+*1993-1998*\
+National University of Natural Medicine (NUNM), Portland, OR
 
 **Master of Science, Oriental Medicine (MSOM)**\
-National University of Natural Medicine (NUNM), Portland, OR | *1996-1998*
+*1996-1998*\
+National University of Natural Medicine (NUNM), Portland, OR
 
 **Bachelor of Science, Physics & Mathematics**\
-The Ohio State University, Columbus, OH | *1987-1992*
+*1987-1992*\
+The Ohio State University, Columbus, OH
 
 ---
-
-### Academic & Clinical Appointments
-**National Library of Medicine Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**\
+## Academic & Clinical Appointments
+**National Library of Medicine Postdoctoral Fellow**\
+*Bioinformatics & Computational Biomedicine*\
 Oregon Health & Science University | *2023–2025* 
 - Developed machine learning pipelines for predicting chronic disease risk using multimodal biomedical data, including wearable signals, clinical labs, and survey measures
 - Applied advanced signal processing and feature engineering (FFT, SDNN, RMSSD) to time-series biosensor data, contributing to digital biomarker discovery
@@ -75,7 +79,7 @@ Telehealth Provider | *2021–Present*
 
 ---
 
-### Selected Publications
+## Selected Publications
 **Capstone**\
 Kalnins, P. (2025). Wearable-derived autonomic metrics for predicting metabolic and hepatic risk: Insights from AI-READI. Department of Medical Informatics and Clinical Epidemiology, OHSU. DOI: 10.6083/bpxhc44709
 
@@ -90,11 +94,11 @@ Kalnins P, Brucker M, Spears D. Prolonged Survival in a Patient with Idiopathic 
 
 ---
 
-### Teaching
+## Teaching
 Extensive experience in graduate-level medical education, including systems physiology, endocrinology, pathology, and integrative clinical reasoning. Current teaching includes small-group professional education for licensed healthcare providers focused on systems-oriented approaches to complex chronic illness.
 
 ---
 
-### Recent Coursework (OHSU)
+## Recent Coursework (OHSU)
 Biomedical Informatics • Clinical Informatics • Biostatistics • Probability & Statistical Inference • Bioinformatics Algorithms • Programming & Scripting • Network Science & Biology • Machine Learning • Clinical Research Informatics • Scientific Writing & CommunicationStress Resilience • Machine learning • Deep learning
 
