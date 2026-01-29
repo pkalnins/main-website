@@ -1,7 +1,7 @@
 ---
 layout: single
-#title: "Mentorship"
-permalink: /mentorship/
+#title: "Teaching"
+permalink: /teaching/
 ---
 
 ## Professional Mentorship Group
