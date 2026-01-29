@@ -3,155 +3,98 @@ layout: single
 #title: "Portfolio & CV"
 permalink: /portfolio-cv/
 ---
-# Paul Kalnins, ND, MS  
-**Naturopathic Physician**  
-**Bioinformaticist | Biomedical Data Scientist | Computational Biologist**
+## Paul Kalnins, ND, MS  
+Independent Researcher in Systems & Network Physiology\
+Biomedical Data Scientist | Computational Biologist
 
 
+### Research Profile   
+I am an independent researcher and naturopathic physician working at the intersection of systems biology, network physiology, and clinical informatics. My work focuses on integrating electronic health record (EHR) data, wearable-derived physiological signals, and clinical biomarkers to develop multi-organ models of resilience, chronic disease, and recovery.
 
-## About Me  
-Postdoctoral researcher with two years of experience in biomedical data analysis, clinical informatics, and predictive modeling. 
+I recently completed a National Library of Medicine (NLM) postdoctoral fellowship in bioinformatics and computational biomedicine at Oregon Health & Science University (OHSU), where I developed interpretable machine learning pipelines for multimodal health data, digital biomarker discovery, and systems-level prediction of metabolic and inflammatory risk.
 
-Completed a master’s degree in bioinformatics and computational biomedicine, with a focus on developing and validating machine learning models for digital health and disease risk prediction. Contributed to clinical data extraction, transformation, and pipeline design for multimodal datasets.
-
-Passionate about building interpretable, real-time AI systems that leverage physiological signals and biosensor data (e.g., HRV, retinal imaging, voice) to monitor organ health and anticipate disease risk. 
-
-Skilled in wearable analytics, digital biomarker discovery, and user-centered data visualization. Deeply interested in applying systems science and network physiology to develop scalable, clinically meaningful tools for precision health. 
-
-Committed to advancing human-centered AI in healthcare by bridging biosensing technologies, machine learning, and clinical utility.
-
-## Skills  
-**Core Competencies**
-- Machine learning, deep learning, preditive modeling, multimodal AI, digital health, precision medicine
-- Time-series analysis, signal processing
-- EHR and clinical data, data visualization, physiological computing, personal informatics, responsible AI
-
-**Programming & Tools**
-- Python, R, SQL, Git, Bash, Jupyter, Google Colab, RStudio, VSCode
-- Scikit-learn, XGBoost, PyTorch, TensorFlow, Keras
-- Model interpretability (SHAP, LIME) cross-validation, hyperparameter tuning
-- Familiarity with HTML5, CSS3, JavaScript (Node.js/Express.js), Django
-- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications
-
-**Data Science**
-- Data wrangling, feature engineering, EDA, statistical modeling, clustering, classification, regression
--	Wearable signal analysis (HRV, ECG, PPG), biosensor data pipelines
--	Digital biomarkers, real-time physiology tracking
-
-**Clinical Informatics & Research**
--	EHR data analysis, FHIR, OMOP, CDM, clinical decision support systems, patient dashboards
--	Clinical experience in chronic disease management
--	Extensive teaching experience
--	Scientific/technical writing
-
-## 🎓 Education  
-
-**Master of Science (MS)**\
-*Bioinformatics & Computational Biomedicine*  
-Oregon Health & Science University (OHSU) | Portland, Oregon  
-*July 2023 – July 2025*
-
-
-
-**Naturopathic Doctor (ND)**\
-*Naturopathic Medicine*  
-National University of Natural Medicine (NUNM) | Portland, Oregon  
-*Sept 1993 – June 1998*
-
-
-
-**Master of Science (MSOM)**\
-*East Asian Herbal Medicine & Acupuncture*  
-National University of Natural Medicine (NUNM) | Portland, Oregon  
-*Sept 1996 – June 1998*
-
-
-
-**Bachelor of Science (BS)**\
-*Physics & Mathematics*  
-The Ohio State University | Columbus, Ohio  
-*Sept 1987 – June 1992*
-
-
-## 💼 Professional Experience
-
-**Research Data Analyst 1**\
-Oregon Health & Science University (OHSU), Casey Eye Institute\
-*Sept 2024 – July 2025*
-- Transformed and merged large-scale NIH AI-READI datasets through rigorous ETL processes, ensuring robust data quality and integrity for subsequent deep learning analyses in healthcare
-
-**NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)\
-Oregon Health Sciences University (OHSU)\
-*July 2023 - July 2025* 
-- Engineered machine learning pipelines using Python to predict chronic disease risk from multimodal biomedical data, including wearable signals, clinical labs, and survey data, thereby enhancing patient risk stratification.
-- Applied advanced signal processing and feature engineering techniques (FFT, SDNN, RMSSD) to time-series data from wearable biosensors, leading to the discovery of novel digital biomarkers for early disease detection.
-- Utilized interpretable machine learning methodologies (SHAP, ROC-AUC, precision/recall analysis) to rigorously evaluate model performance, thereby enhancing model explainability and informing clinical decision-making.
-- Established reproducible and scalable workflows integrating Python, SQL, and Git to streamline biomedical data analysis, fostering efficient collaboration and reliability in research outcomes. 
-
-
-**Naturopathic Physician | Telehealth Provider**\
-Self-employed\
-*Jan 2021 - Present*
-- Deliver personalized, integrative care through telehealth to clients with chronic health conditions, including chronic pain, autoimmune disorders, and cardio-metabolic dysfunction.
-- Utilizing a holistic approach combining evidence-based naturopathic treatments with lifestyle interventions to optimize health outcomes.
-- Developing customized wellness plans, integrating nutrition, herbal medicine, and stress management strategies for long-term health and resilience.
-- Leveraging telemedicine technologies to expand patient access to integrative care and facilitate ongoing health monitoring.
-
-**Assistant Professor | Attending Physician**\
-National University of Natural Medicine (NUNM)\
-*Sept 2004 - Sept 2020*
-- Led the instruction of biomedical science courses (physiology, biochemistry, endocrinology, pharmacology) to medical students, fostering a deep understanding of integrative medicine.
-- Supervised students in the university’s outpatient teaching clinics, providing hands-on training in patient care and clinical decision-making.
-- Mentored students in clinical research trials, guiding them through study design, data collection, and analysis to publish peer-reviewed work.
-- Contributed to the leadership and strategic direction of the university by actively participating in curriculum redesign and administrative committees.
-- Collaborated with faculty members to develop innovative course materials and teaching methodologies that integrated evidence-based medicine with holistic treatment approaches.
-
-**Naturopathic Physician | Private Practice** \
-New Health Horizons, LLC\
-*Jan 1999 - Sept 2004*
-- Provided comprehensive naturopathic primary care in a multidisciplinary clinical setting. 
-
-
-
-## Publications  
-**Capstone**
-- Kalnins, P. (2025). *Wearable-derived autonomic metrics for predicting metabolic and hepatic risk: Insights from AI-READI (Master’s capstone project)*. Department of Medical Informatics and Clinical Epidemiology, School of Medicine, Oregon Health & Science University. DOI: [10.6083/bpxhc44709](https://doi.org/10.6083/bpxhc44709)
-
-**Theses**  
-- Kalnins, P. *Toxemia and Terrain: The Evolution of Intestinal Dysbiosis and Hyperpermeability* (1998)  
-- Kalnins, P. *Goethean Phenomenology: An Alternative to Phytochemical Reductionism* (1998)  
-
-**Journal Articles**  
-- Mist SD, Aickin M, Kalnins P, et al. Reliability of AcuGraph system for measuring skin conductance at acupoints. *Acupunct Med.* 2011; 29(3):221-6. DOI: [10.1136/aim.2010.003012](https://doi.org/10.1136/aim.2010.003012)  
-- Shaw K, Wright K, Wang J, Kalnins P. Synergism of herbs in classical Chinese medicine: evidence from HPLC. *BMC Complement Altern Med* 2012; 12(Suppl 1):P39. DOI: [10.1186/1472-6882-12-S1-P39](https://doi.org/10.1186/1472-6882-12-S1-P39)  
-- Dombrowski A, Imre K, Yan M, Kalnins P, et al. Treatment of Osteoarthritis With Low-level Laser Therapy, Acupuncture, and Herbal Therapy: A Case Report. *Integr Med (Encinitas).* 2018; 17(2):48-53. PMID: [30962785](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396761/)  
-- Kalnins P, Brucker M, Spears D. Prolonged Survival in a Patient with Idiopathic Pulmonary Fibrosis Receiving Acupuncture and DHEA-Promoting Herbs with Conventional Management: A Case Report. *Perm J.* 2019; 23:18-074. DOI: [10.7812/TPP/18-074](https://doi.org/10.7812/TPP/18-074)  
-
-
-## Recent Coursework  
-**Oregon Health Sciences University (OHSU)** 
-- Introduction to Biomedical Informatics (BMI 510)
-- Introduction to Clinical Informatics (BMI 512) 
-- Introduction to Biostatistics (BSTA 525)  
-- Probability & Statistical Inference (BMI 531)  
-- Bioinformatics Algorithms (BMI 550)  
-- Bioinformatics Programming & Scripting (BMI 565)  
-- Bioinformatics Statistical Methods (BMI 551)  
-- Network Science and Biology (BMI 567)
-- Software Engineering (BMI 546)
-- Machine Learning (BMI 543)
-- Clinical Research Informatics (BMI 523)
-- Scientific Writing & Communication (BMI 570) 
-
-**Online Certifications (Coursera/Udemy)**  
-- Google Data Analytics Career Certificate (Coursera, 2022)  
-- Complete Web Developer Bootcamp (Udemy, 2022)  
-- Complete Python Bootcamp (Udemy, 2022)  
-- Data Science & Machine Learning with Python (Udemy, 2022)
-- Deep Learning with PyTorch (Udemy, 2025)
+My broader research interests center on translating complexity science into clinically meaningful frameworks for whole-person care, with emphasis on organ-level networks, autonomic regulation, and longitudinal physiological coherence. My clinical background informs this work by grounding computational models in real-world patient trajectories and multi-system presentations.
 
 ---
 
-## Targeted Domains & Interests
-Digital Biomarkers • Biosensors • Multimodal AI • Real-Time Physiology • Remote Monitoring • Biological Rhythms • Clinical Decision Support • EHR Visualization • Human-Centered AI in Healthcare • Salutogenic Healthcare • Stress Resilience • Machine learning • Deep learning
+### Research Interests
+- Network physiology and multi-organ systems modeling
+- Digital biomarkers and wearable-derived autonomic metrics
+- Clinical informatics and EHR-based systems analysis
+- Systems approaches to metabolic and inflammatory disease
+- Salutogenic and resilience-oriented models of health
+
+---
+
+### Methods & Technical Expertise
+- Machine learning and statistical modeling (Python, R, SQL)
+- Time-series analysis and physiological signal processing (HRV, ECG, PPG)
+- Multimodal data integration (EHR + wearables + laboratory data)
+- Interpretable AI (SHAP, ROC-AUC, precision/recall analysis)
+- Reproducible research workflows (Git, Jupyter, cloud-based pipelines)
+
+---
+
+### Education
+**Master of Science, Bioinformatics & Computational Biomedicine**\
+Oregon Health & Science University (OHSU), Portland, OR | *2023-2025*
+
+**Doctorate, Naturopathic Medicine (ND)**\
+National University of Natural Medicine (NUNM), Portland, OR | *1993-1998*
+
+**Master of Science, Oriental Medicine (MSOM)**\
+National University of Natural Medicine (NUNM), Portland, OR | *1996-1998*
+
+**Bachelor of Science, Physics & Mathematics**\
+The Ohio State University, Columbus, OH | *1987-1992*
+
+---
+
+### Academic & Clinical Appointments
+**National Library of Medicine Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**\
+Oregon Health & Science University | *2023–2025* 
+- Developed machine learning pipelines for predicting chronic disease risk using multimodal biomedical data, including wearable signals, clinical labs, and survey measures
+- Applied advanced signal processing and feature engineering (FFT, SDNN, RMSSD) to time-series biosensor data, contributing to digital biomarker discovery
+- Implemented interpretable modeling approaches to support clinical relevance and transparency
+- Established reproducible workflows integrating Python, SQL, and Git
+
+**Research Data Analyst**\
+Casey Eye Institute, OHSU | *2024–2025* 
+- Supported ETL and integration of large-scale NIH AI-READI datasets to support deep learning analyses in healthcare
+
+**Assistant Professor & Attending Physician**\
+National University of Natural Medicine | *2004–2020*  
+- Taught physiology, biochemistry, endocrinology, pathology, and pharmacology to medical students
+- Supervised clinical training in outpatient teaching clinics
+- Mentored student-led clinical research projects
+- Contributed to curriculum development and academic governance
+
+**Naturopathic Physician**\
+Telehealth Provider | *2021–Present* 
+- Provide consultative integrative care for chronic and complex conditions, informing translational research through longitudinal clinical observation
+
+---
+
+### Selected Publications
+**Capstone**\
+Kalnins, P. (2025). Wearable-derived autonomic metrics for predicting metabolic and hepatic risk: Insights from AI-READI. Department of Medical Informatics and Clinical Epidemiology, OHSU. DOI: 10.6083/bpxhc44709
+
+**Journal Articles**\
+Mist SD, Aickin M, Kalnins P, et al. Reliability of AcuGraph system for measuring skin conductance at acupoints. Acupunct Med. 2011;29(3):221–226.
+
+Shaw K, Wright K, Wang J, Kalnins P. Synergism of herbs in classical Chinese medicine: evidence from HPLC. BMC Complement Altern Med. 2012;12(Suppl 1):P39.
+
+Dombrowski A, Imre K, Yan M, Kalnins P, et al. Treatment of Osteoarthritis With Low-level Laser Therapy, Acupuncture, and Herbal Therapy: A Case Report. Integr Med (Encinitas). 2018;17(2):48–53.
+
+Kalnins P, Brucker M, Spears D. Prolonged Survival in a Patient with Idiopathic Pulmonary Fibrosis Receiving Acupuncture and DHEA-Promoting Herbs with Conventional Management. Perm J. 2019;23:18–074.
+
+---
+
+### Teaching
+Extensive experience in graduate-level medical education, including systems physiology, endocrinology, pathology, and integrative clinical reasoning. Current teaching includes small-group professional education for licensed healthcare providers focused on systems-oriented approaches to complex chronic illness.
+
+---
+
+### Recent Coursework (OHSU)
+Biomedical Informatics • Clinical Informatics • Biostatistics • Probability & Statistical Inference • Bioinformatics Algorithms • Programming & Scripting • Network Science & Biology • Machine Learning • Clinical Research Informatics • Scientific Writing & CommunicationStress Resilience • Machine learning • Deep learning
 
