@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Clinical Telehealh Services"
+title: "Clinical Telehealth Services"
 permalink: /patients/
 ---
 
