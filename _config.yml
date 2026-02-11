@@ -4,7 +4,7 @@ title: "Paul Kalnins, ND, MS"
 subtitle: ""
 email: "drpkalnins@gmail.com"
 description: >-
-  Exploring health, medicine, and research through systems and network science.
+  Healthcare analytics, clinical data, and systems-oriented perspectives on physiology, resilience, and chronic disease.
 baseurl: ""
 #baseurl: "/main-website"
 url: "https://pkalnins.github.io"
@@ -31,7 +31,7 @@ paginate_path: "/page:num/"
 author:
   name: "Paul Kalnins"
   avatar: "/assets/images/paul.jpg" # place your photo in /assets/images/
-  bio: "Clinician, researcher, and writer exploring integrative and systems-based medicine."
+  bio: "bio: "Healthcare analytics and clinical data professional with a background in physiology and clinical medicine. Focused on real-world data, longitudinal analysis, and interpretable models of health and disease."
   location: "Portland, OR"
   links:
     - label: "Email"
