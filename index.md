@@ -7,34 +7,31 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.png
 excerpt: >
-  Independent Researcher in Systems & Network Medicine Integrating Clinical Insight with Biomedical Data
+  Healthcare Analytics • Clinical Data • Systems & Physiology
 core_services:
   - image_path: /assets/images/telehealth.jpg
     alt: "Telehealth"
     title: "Telehealth"
-    excerpt: "Telemedicine consults for endocrine, nervous, immune, and organ system health using nutritional, herbal, and integrative strategies."
+    excerpt: "Telemedicine consultations focused on complex, chronic, and systems-oriented health concerns, integrating nutritional, botanical, and physiology-based approaches."
     url: "/patients/"
 
   - image_path: /assets/images/mentorship.png
     alt: "Teaching"
     title: "Teaching"
-    excerpt: "One-on-one mentorship for students and practitioners in naturopathic and herbal medicine, with a focus on systems-based clinical reasoning."
+    excerpt: "Individual mentorship and educational work for students and practitioners, emphasizing physiology, clinical reasoning, and systems-based thinking."
     url: "/teaching/"
 
   - image_path: /assets/images/data-science.jpg
     alt: "Research"
     title: "Research"
-    excerpt: "Systems- and network-based biomedical research integrating EHR data, wearable analytics, and physiological modeling to study resilience, chronic disease, and whole-person health."
+    excerpt: "Healthcare and clinical data analysis exploring longitudinal patterns, physiological systems, and interpretable modeling using real-world datasets."
     url: "/research/"
 
 ---
 
 ## Welcome
 
-I’m Paul Kalnins, ND, MS — a naturopathic physician, biomedical data scientist, and independent researcher based in Portland, Oregon.
-My work explores how systems science and network physiology can bridge traditional healing frameworks with modern biomedical data.
-
-I develop computational and clinical models that examine health as an interconnected, multi-organ system — integrating electronic health record analytics, physiological networks, and whole-person clinical care. Through research, mentorship, and writing, I focus on building practical frameworks for understanding resilience, chronic disease, and recovery across biological scales.
+I’m Paul Kalnins, ND, MS — a healthcare analytics and clinical data professional with a background in clinical medicine and physiology. My work spans data analysis, research, writing, and education, with a focus on understanding complex health processes through quantitative and systems-oriented perspectives.
 
 ---
 
