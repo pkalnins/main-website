@@ -5,37 +5,39 @@ permalink: /research/
 ---
 
 ## Research
-My research focuses on applying systems science, network physiology, and biomedical data analytics to better understand health, resilience, and chronic disease across interconnected biological systems.
+My work focuses on healthcare and clinical data analytics aimed at understanding health, resilience, and chronic disease through longitudinal patterns, physiological dynamics, and systems-level biological processes.
 
-I am particularly interested in developing computational and clinically grounded models that move beyond single-variable risk factors toward multi-organ, longitudinal representations of physiological function. This work integrates electronic health record (EHR) data, wearable-derived metrics, and clinical biomarkers to explore how patterns of regulation and coherence emerge across biological scales.
+I am particularly interested in developing analytically and clinically grounded models that move beyond single-variable risk factors toward multi-system, time-dependent representations of human health. This includes the study of electronic health record (EHR) data, wearable-derived metrics, and clinical biomarkers, with emphasis on interpretable approaches that connect quantitative patterns to clinically meaningful phenomena.
 
 
 ## Current Research Themes
-### Network Physiology & Organ-Level Modeling
-Developing frameworks that treat organ systems as interacting nodes within dynamic physiological networks, with the goal of identifying patterns of vulnerability and resilience that inform prevention and personalized care.
+### Longitudinal & Systems-Oriented Clinical Data Analysis 
+Investigating time-dependent patterns in real-world clinical datasets to better characterize adaptation, risk trajectories, and multi-system interactions in chronic disease.
 
-### Clinical Informatics & EHR-Based Systems Analysis
-Building pipelines for extracting structured and unstructured clinical data to support retrospective cohort analysis, longitudinal modeling, and systems-level phenotype discovery.
+### Clinical Informatics & EHR-Based Analysis
+Designing and applying methods for extracting and structuring clinical data — including both structured variables and clinical text — to support retrospective cohort studies, phenotyping, and decision-oriented analytics.
 
-### Digital Health & Wearable Analytics
-Exploring how heart rate variability, stress metrics, sleep parameters, and other wearable-derived signals can be integrated with clinical data to characterize autonomic-metabolic coupling and regulatory balance.
+### Physiology & Network-Informed Modeling Perspectives
+Exploring frameworks that treat physiological systems and organ functions as interacting processes, with the goal of improving how we interpret variability, regulatory dynamics, and resilience across biological systems.
 
-### Systems Approaches to Metabolic and Inflammatory Disease
-Applying network-based methods to conditions such as type 2 diabetes and metabolic syndrome, with emphasis on multimorbidity, organ crosstalk, and resilience rather than isolated endpoints.
+### Digital Health & Wearable Data Interpretation
+Examining how wearable-derived signals (e.g., heart rate variability, sleep metrics, autonomic indicators) can complement clinical datasets and contribute to multi-modal representations of physiological function.
 
+### Systems Perspectives on Metabolic & Chronic Disease
+Applying quantitative and systems-oriented analytical approaches to conditions such as type 2 diabetes and metabolic dysregulation, emphasizing longitudinal dynamics and multi-system relationships rather than isolated endpoints.
 
 ## Ongoing Projects
-- Development of a privacy-preserving EHR analytics pipeline for integrative medicine research
-- Organ-network modeling of metabolic risk and physiological resilience
-- Integration of wearable autonomic metrics with clinical biomarkers for systems-level prediction
+- Development of privacy-preserving workflows for clinical and EHR-based data analysis
+- Longitudinal modeling approaches for metabolic risk and physiological variability
+- Integration of wearable-derived metrics with clinical biomarkers
 
 (Additional project details forthcoming.)
 
 
 ## Collaboration
-I welcome collaboration with clinicians, researchers, and organizations interested in systems medicine, clinical informatics, and network-based approaches to health.
+welcome collaboration with researchers, clinicians, and organizations working with healthcare data, clinical analytics, or systems-oriented approaches to physiology and disease modeling.
 
-My work spans conceptual modeling, data engineering, statistical analysis, and translational interpretation. Collaborative projects may include retrospective EHR studies, digital health analytics, methodological development, or systems-oriented clinical research.
+My interests include clinical data analysis, longitudinal modeling, interpretable analytics, and the integration of physiological and digital health datasets. Potential collaborations may involve retrospective EHR studies, cohort-based analyses, digital health data interpretation, or methodological development.
 
-For research collaborations or applied analytics projects, feel free to reach out:
+For research or applied analytics collaborations:
 📧 [drpkalnins@gmail.com](mailto:drpkalnins@gmail.com)
