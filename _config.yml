@@ -31,7 +31,7 @@ paginate_path: "/page:num/"
 author:
   name: "Paul Kalnins"
   avatar: "/assets/images/paul.jpg" # place your photo in /assets/images/
-  bio: "bio: "Healthcare analytics and clinical data professional with a background in physiology and clinical medicine. Focused on real-world data, longitudinal analysis, and interpretable models of health and disease."
+  bio: "Healthcare analytics and clinical data professional with a background in physiology and clinical medicine. Focused on real-world data, longitudinal analysis, and interpretable models of health and disease."
   location: "Portland, OR"
   links:
     - label: "Email"
