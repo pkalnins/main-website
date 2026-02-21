@@ -1,10 +1,9 @@
 ---
 layout: single
-#title: "Portfolio & CV"
+#title: "Paul Kalnins, ND, MS"
 permalink: /portfolio-cv/
-show_title: false
 ---
-# Paul Kalnins, ND, MS  
+  
 Healthcare Analytics • Clinical Data • Clinical Informatics
 
 
