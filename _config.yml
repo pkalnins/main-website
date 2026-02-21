@@ -86,6 +86,9 @@ include:
   - _pages
 
 exclude:
+  - vendor
+  - .bundle
+  - node_modules
   - _site
   - CHANGELOG.md
   - README.md
