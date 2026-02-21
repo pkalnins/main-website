@@ -1,10 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "minimal-mistakes-jekyll"
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-#gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "faraday-retry"
+gem "github-pages", group: :jekyll_plugins
+
+# Minimal Mistakes required plugin
+gem "jekyll-include-cache", group: :jekyll_plugins
 
