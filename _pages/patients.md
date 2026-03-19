@@ -6,18 +6,22 @@ permalink: /patients/
 
 ## Schedule a Visit
 
-📅 Ready to book an appointment?  
+📅 Ready to book an appointment?
 
 <div style="max-width: 600px; margin: 20px auto;">
   <div style="display: flex; flex-direction: column; gap: 12px;">
     <a class="btn"
-       style="background-color: #007bff; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+       style="background-color: #007bff; color: white; padding: 12px 20px; 
+       text-align: center; border-radius: 6px; font-size: 16px; 
+       text-decoration: none;"
        href="https://my.practicebetter.io/#/6244c22f467e5f79ffbfe4db/bookings?r=625229d27856dc6c6749f590"
        target="_blank" rel="noopener">
       New Patient Appointment
     </a>
     <a class="btn"
-       style="background-color: #28a745; color: white; padding: 12px 20px; text-align: center; border-radius: 6px; font-size: 16px; text-decoration: none;"
+       style="background-color: #28a745; color: white; padding: 12px 20px; 
+       text-align: center; border-radius: 6px; font-size: 16px; 
+       text-decoration: none;"
        href="https://client.practicebetter.io/#/signin"
        target="_blank" rel="noopener">
       Returning Patient Appointment
@@ -34,19 +38,59 @@ Please note:
 
 ---
 
-## Systems-Based Integrative Care
+## Visits and Fees
 
-I provide consultative telehealth services for individuals seeking a systems-oriented approach to chronic and complex health concerns.
+**Initial Consultation**\
+**$225** *(60 minutes)*\
+A comprehensive review of your health history, current concerns, goals, 
+and relevant laboratory data. Together we assess your physiological 
+"terrain," including key organ systems and regulatory networks. You will 
+receive a personalized plan incorporating diet, lifestyle, herbal, and 
+micronutrient recommendations. Additional testing or referrals are 
+discussed as needed.
 
-While I previously offered primary care, my current practice is designed to complement your existing medical providers, adding a layer of integrative and physiological systems analysis.
+**Follow-Up Visit**\
+**$100** *(30 minutes)*\
+For established patients. We review progress, refine your plan, and 
+address new concerns.
 
-My clinical work draws from modern biomedical research, network physiology, and traditional medical frameworks to help identify patterns of dysfunction across interconnected biological systems — including endocrine, nervous, immune, and organ networks.
+---
 
-Rather than focusing on isolated symptoms, I emphasize restoring coherence and resilience across the whole person using a salutogenic (health-generating) approach.
+## A Systems-Based Approach to Integrative Care
 
-Tools may include nutrition, micronutrient therapies, herbal medicine, lifestyle interventions, and — when appropriate — coordination with conventional treatments.
+I provide consultative telehealth services for individuals seeking a 
+thoughtful, whole-person approach to chronic and complex health concerns.
 
-**Areas of Focus**\
+My practice is designed to complement your existing medical providers — 
+adding a layer of integrative and systems-based clinical reasoning to 
+help make sense of patterns that may not fit neatly into a conventional 
+diagnosis.
+
+I draw from modern biomedical science, traditional medical frameworks, 
+and thirty years of clinical experience to identify how dysfunction in 
+one system — endocrine, nervous, immune, digestive, or otherwise — 
+ripples through others. Rather than treating isolated symptoms, I work 
+to restore coherence and resilience across the whole person, guided by 
+salutogenic principles: understanding what generates and sustains health, 
+not only what disrupts it.
+
+I approach each concern through an organ-system lens, looking at how 
+regulatory networks interact and where the points of leverage are for 
+your particular situation.
+
+**Therapeutic tools may include:**
+- Dietary, lifestyle, and exercise guidance
+- Herbal medicine (Western, Chinese, and Ayurvedic traditions)
+- Micronutrient therapy (including trace elements)
+- Low-potency homeopathic and anthroposophic remedies
+  *(European botanical and mineral preparations)*
+- Mind-body approaches
+- Sensory therapies (light, sound, etc.)
+
+---
+
+## Areas of Focus
+
 I commonly work with:
 - Chronic gastrointestinal concerns
 - Nervous system dysregulation (anxiety, insomnia, mood-related conditions)
@@ -56,27 +100,17 @@ I commonly work with:
 - Reproductive health
 - Chronic musculoskeletal pain and complex multisystem conditions
 
-For advanced or medically complex cases, I typically collaborate with your existing healthcare team.
-
----
-
-## Visits and Fees
-
-**Initial Consultation**\
-**$225** *(60 minutes)*\
-A comprehensive review of your health history, current concerns, goals, and relevant laboratory data.
-Together we assess your physiological “terrain,” including key organ systems and regulatory networks. You will receive a personalized plan incorporating diet, lifestyle, herbal, and micronutrient recommendations. Additional testing or referrals are discussed as needed.
-
-**Follow-Up Visit**\
-**$100** *(30 minutes)*\
-For established patients. We review progress, refine your plan, and address new concerns.
+For advanced or medically complex cases, I typically collaborate with 
+your existing healthcare team.
 
 ---
 
 ## Frequently Asked Questions
 
 **Do you offer primary care?**\
-My practice is not a replacement for conventional primary care. I recommend maintaining an ongoing relationship with a primary care provider.
+My practice is not a replacement for conventional primary care. I 
+recommend maintaining an ongoing relationship with a primary care 
+provider.
 
 For Oregon residents, I can:
 - Order lab tests
@@ -85,24 +119,22 @@ For Oregon residents, I can:
 
 For clients outside Oregon, I provide health and wellness consulting only.
 
-**What ages do you work with?**\
-Adults and children aged 7 and older. 
+**Is naturopathic medicine evidence-based?**\
+My approach integrates both traditional clinical wisdom and contemporary 
+biomedical research. I apply critical thinking to both — drawing on what 
+works across frameworks while remaining transparent about the evidence 
+base for each recommendation.
 
+**What ages do you work with?**\
+Adults and children aged 7 and older.
 
 **Do you offer in-person visits?**\
-Currently, all services are provided via telemedicine (video or phone). 
-
-**What therapeutic tools do you use?**
-- Dietary, lifestyle, and exercise guidance
-- Herbal medicine (Western & Chinese traditions)  
-- Micronutrient therapy
-- Low-potency homeopathic and anthroposophic remedies 
-- Mind-body approaches
-- Sensory therapies (light, sound, etc.)
+Currently, all services are provided via telemedicine (video or phone).
 
 ---
 
 ### Questions?
-If you'd like to learn more, feel free to contact me at: [drpkalnins@gmail.com](mailto:drpkalnins@gmail.com) 
+If you'd like to learn more, feel free to contact me at: 
+[drpkalnins@gmail.com](mailto:drpkalnins@gmail.com)
 
-To schedule a visit, use the links above.  
+To schedule a visit, use the links above.
