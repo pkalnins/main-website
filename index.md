@@ -1,12 +1,11 @@
 ---
 layout: splash
+title: ""
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.png
-excerpt: >
-  Naturopathic Physician • Systems Medicine • Integrative Research
 core_services:
   - image_path: /assets/images/telehealth.jpg
     alt: "Clinical Practice"
