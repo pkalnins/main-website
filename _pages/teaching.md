@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /teaching/
+title: "Teaching & Professional Education"
 ---
 
 
