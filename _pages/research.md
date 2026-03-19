@@ -15,6 +15,11 @@ decision-support tool development.
 
 ## Theoretical & Framework Research
 
+My theoretical research spans three interconnected areas: the development 
+of a unified systems-medicine clinical framework, a structured approach 
+to botanical therapeutics, and an investigation of bioelectric and 
+morphogenetic field dynamics as integrative regulatory layers.
+
 ### Systems Medicine & Organ-Network Theory
 
 My primary independent research develops a unified clinical architecture 
@@ -26,7 +31,8 @@ one that is both clinically actionable and in genuine dialogue with
 contemporary biology.
 
 This work draws on:
-- TCM, Tibetan, and Ayurvedic organ-system and pattern frameworks
+- Traditional Chinese, Tibetan, and Ayurvedic organ-system and 
+  pattern frameworks
 - Anthroposophical medicine and its planetary life-process model
 - Neuroendocrine-immune signaling and systems endocrinology
 - Salutogenesis and health-generative regulatory dynamics
@@ -45,6 +51,21 @@ mapping herbal actions onto organ-network patterns, developing
 polyherbal reasoning frameworks, and building evidence-informed 
 protocols grounded in integrative physiology.
 
+### Bioelectricity, Signaling, and Morphogenetic Fields
+
+A developing thread of my theoretical work explores the role of 
+bioelectric signaling and morphogenetic fields in organismal regulation 
+and health. Drawing on Michael Levin's work in developmental 
+bioelectricity and David Bohm's concept of implicate order, I am 
+investigating how bioelectric gradients and field-level organization 
+may serve as integrative layers connecting molecular signaling, 
+organ-level physiology, and whole-organism regulatory dynamics.
+
+This work intersects with my interest in metabolic and signaling pathway 
+analysis — particularly how disruptions in bioelectric and biochemical 
+signaling networks contribute to chronic disease patterns across multiple 
+organ systems.
+
 ---
 
 ## Applied Research & Tool Development
@@ -61,12 +82,26 @@ The platform is intended as a knowledge layer for practitioners working
 with complex, multisystem presentations — supporting pattern recognition, 
 treatment planning, and continuing education simultaneously.
 
+### Naturopathic EHR Data Analysis
+
+I am developing an analytical project using real-world electronic health 
+record data from naturopathic clinical practice. This work aims to 
+characterize patient presentations, treatment patterns, and clinical 
+outcomes in integrative and naturopathic care — a population and practice 
+context that remains substantially underrepresented in the clinical 
+research literature.
+
+This project sits at the intersection of clinical informatics, 
+naturopathic medicine, and outcomes research, and has potential 
+implications for both practice-based evidence development and health 
+policy.
+
 ### Clinical Data Science & Informatics
 
 My applied research background includes a postdoctoral fellowship in 
 bioinformatics and computational biomedicine at Oregon Health & Science 
-University (OHSU), with a focus on multimodal clinical data, 
-longitudinal modeling, and EHR-based analytics.
+University (OHSU), with a focus on multimodal clinical data, longitudinal 
+modeling, and EHR-based analytics.
 
 Current analytical interests include:
 
