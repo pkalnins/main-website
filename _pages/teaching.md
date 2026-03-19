@@ -1,29 +1,38 @@
 ---
 layout: single
-#title: "Teaching"
 permalink: /teaching/
 ---
 
 ## Teaching & Professional Education
 
-I offer small-group, case-based teaching for licensed healthcare providers interested in systems-oriented and network-based approaches to clinical care.
+My teaching work spans an ongoing practitioner mentorship group, a 
+professional Substack publication, and a freely accessible archive of 
+graduate-level lectures. The common thread is systems-based clinical 
+reasoning — helping practitioners develop a deeper, pattern-oriented 
+understanding of complex, multi-system presentations.
 
-My teaching integrates clinical experience, systems biology, and network physiology to help practitioners work more effectively with complex, multi-system presentations. Rather than focusing solely on isolated diagnoses or protocols, we emphasize pattern recognition, organ-system interactions, and longitudinal regulation — supporting participants in developing a deeper, systems-level clinical intuition.
+---
 
-This educational work also informs my research, creating a bidirectional exchange between real-world clinical experience and computational modeling.
+## Practitioner Mentorship Group
 
-## Professional Case-Based Learning Group
-This ongoing small-group program is designed for licensed healthcare providers — including NDs, DCs, MDs, DOs, NPs, PA-Cs, LAc.s, and others — who wish to deepen their understanding of complex chronic illness through a systems biology lens.
+This ongoing small-group program is designed for licensed healthcare 
+providers — including NDs, DCs, MDs, DOs, NPs, PA-Cs, LAcs, and others 
+— who want to deepen their clinical understanding of complex chronic 
+illness through a systems medicine lens.
 
-Sessions focus on collaborative case discussion, integrative interpretation of labs and clinical histories, and practical application of network-oriented frameworks. Participants are encouraged to bring challenging cases and engage in shared inquiry around physiological patterns, resilience, and multi-organ dynamics.
+Sessions are case-based and collaborative, integrating organ-network 
+theory, neuroendocrine-immune physiology, and traditional medical 
+frameworks into practical clinical reasoning. Participants are encouraged 
+to bring challenging cases and engage in shared inquiry around 
+physiological patterns, resilience, and multi-organ dynamics.
 
 Areas of emphasis include:
 - Systems approaches to chronic and multimorbid conditions
-- Organ-level network interactions
-- Clinical pattern recognition across biological systems
-- Integration of conventional diagnostics with whole-person frameworks
+- Organ-network interactions and pattern recognition
+- Integrative interpretation of labs and clinical histories
+- Traditional medical frameworks (Chinese, Ayurvedic, Anthroposophical)
+  in dialogue with modern physiology
 - Translating systems thinking into practical treatment strategies
-
 
 **Group Details**
 - 🗓 Meets: 1st and 3rd Sundays of each month
@@ -36,22 +45,61 @@ Areas of emphasis include:
 **Interested in Joining?**
 
 <div style="text-align:center; margin: 2em 0;">
-  <a href="https://forms.gle/upSS4sRScfcUbJMQ6" 
-     class="btn btn--primary btn--large" 
+  <a href="https://forms.gle/upSS4sRScfcUbJMQ6"
+     class="btn btn--primary btn--large"
      target="_blank" rel="noopener">
     Join the Mentorship Group
   </a>
 </div>
 
-If there is room in the group, you’ll receive a secure Stripe payment link and Zoom access details. Otherwise, you'll be added to the waitlist and I'll let you know when there is an opening.  
+If there is room in the group, you'll receive a secure Stripe payment 
+link and Zoom access details. Otherwise, you'll be added to the waitlist 
+and notified when an opening becomes available.
+
+---
+
+## Writing & Publication
+
+I write for a professional audience on Substack, where my publication 
+explores the intersection of systems biology, traditional medicine, and 
+integrative clinical practice. Topics include organ-network theory, 
+neuroendocrine-immune physiology, botanical therapeutics, and 
+salutogenic frameworks for chronic disease.
+
+<div style="text-align:center; margin: 2em 0;">
+  <a href="https://pkalnins.substack.com"
+     class="btn btn--primary btn--large"
+     target="_blank" rel="noopener">
+    Read on Substack
+  </a>
+</div>
+
+---
 
 ## Open Educational Resources
-I have also made available a large archive of recorded lectures from my time teaching at the National University of Natural Medicine (NUNM), covering topics including salutogenic medicine, physiology, endocrinology, pathology, and integrative clinical reasoning.
 
-These videos were originally created for graduate-level medical education and remain freely accessible as a resource for clinicians, students, and researchers interested in systems-oriented approaches to health.
-You can explore the full lecture series here:
-▶️ [View lecture archive on YouTube](https://www.youtube.com/@drpkalnins)
+During my seventeen years as an assistant professor at the National 
+University of Natural Medicine (NUNM), I created an extensive library 
+of recorded lectures for graduate-level medical education. These cover 
+physiology, endocrinology, pathology, biochemistry, salutogenic medicine, 
+and integrative clinical reasoning — representing hundreds of hours of 
+freely accessible content.
+
+They remain available as an open resource for clinicians, students, and 
+researchers interested in systems-oriented approaches to health.
+
+<div style="text-align:center; margin: 2em 0;">
+  <a href="https://www.youtube.com/@drpkalnins"
+     class="btn btn--primary btn--large"
+     target="_blank" rel="noopener">
+    View Lecture Archive on YouTube
+  </a>
+</div>
+
+---
 
 ## Questions?
-If you’d like to learn more about the group or upcoming educational offerings, feel free to contact me at [drpkalnins@gmail.com](mailto:drpkalnins@gmail.com).
 
+To learn more about the mentorship group or upcoming educational 
+offerings, contact me at 
+[drpkalnins@gmail.com](mailto:drpkalnins@gmail.com).
