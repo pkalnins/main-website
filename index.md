@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: " "
 permalink: /
 header:
   overlay_color: "#000"
@@ -30,6 +30,8 @@ core_services:
     url: "/research/"
 ---
 ## Welcome
+
+*Naturopathic Physician • Systems Medicine • Integrative Research*
 
 I'm Paul Kalnins, ND, MS — a naturopathic physician and independent researcher with a clinical background spanning thirty years of practice, biomedical research, healthcare data science, and integrative medicine education.
 
