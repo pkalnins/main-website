@@ -4,7 +4,7 @@ title: ""
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/home-banner.png
 core_services:
   - image_path: /assets/images/telehealth.jpg
