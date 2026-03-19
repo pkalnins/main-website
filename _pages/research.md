@@ -1,43 +1,109 @@
 ---
 layout: single
-#title: "Research"
 permalink: /research/
 ---
 
 ## Research
-My work focuses on healthcare and clinical data analytics aimed at understanding health, resilience, and chronic disease through longitudinal patterns, physiological dynamics, and systems-level biological processes.
 
-I am particularly interested in developing analytically and clinically grounded models that move beyond single-variable risk factors toward multi-system, time-dependent representations of human health. This includes the study of electronic health record (EHR) data, wearable-derived metrics, and clinical biomarkers, with emphasis on interpretable approaches that connect quantitative patterns to clinically meaningful phenomena.
+My research sits at the intersection of integrative medicine theory, 
+systems physiology, and clinical data science. It has two broadly 
+complementary dimensions: theoretical framework development in systems 
+and integrative medicine, and applied clinical data analysis and 
+decision-support tool development.
 
+---
 
-## Current Research Themes
-### Longitudinal & Systems-Oriented Clinical Data Analysis 
-Investigating time-dependent patterns in real-world clinical datasets to better characterize adaptation, risk trajectories, and multi-system interactions in chronic disease.
+## Theoretical & Framework Research
 
-### Clinical Informatics & EHR-Based Analysis
-Designing and applying methods for extracting and structuring clinical data — including both structured variables and clinical text — to support retrospective cohort studies, phenotyping, and decision-oriented analytics.
+### Systems Medicine & Organ-Network Theory
 
-### Physiology & Network-Informed Modeling Perspectives
-Exploring frameworks that treat physiological systems and organ functions as interacting processes, with the goal of improving how we interpret variability, regulatory dynamics, and resilience across biological systems.
+My primary independent research develops a unified clinical architecture 
+that maps the organ-network and pattern theories of Asian classical 
+medicine and anthroposophical medicine onto modern neuroendocrine-immune 
+physiology. The goal is a coherent, multi-scale framework for 
+understanding how regulatory systems interact in health and disease — 
+one that is both clinically actionable and in genuine dialogue with 
+contemporary biology.
 
-### Digital Health & Wearable Data Interpretation
-Examining how wearable-derived signals (e.g., heart rate variability, sleep metrics, autonomic indicators) can complement clinical datasets and contribute to multi-modal representations of physiological function.
+This work draws on:
+- TCM, Tibetan, and Ayurvedic organ-system and pattern frameworks
+- Anthroposophical medicine and its planetary life-process model
+- Neuroendocrine-immune signaling and systems endocrinology
+- Salutogenesis and health-generative regulatory dynamics
+- Network medicine and systems biology principles
 
-### Systems Perspectives on Metabolic & Chronic Disease
-Applying quantitative and systems-oriented analytical approaches to conditions such as type 2 diabetes and metabolic dysregulation, emphasizing longitudinal dynamics and multi-system relationships rather than isolated endpoints.
+A central focus is the development of a shared clinical language across 
+these traditions — one capable of generating testable hypotheses and 
+supporting structured clinical reasoning.
 
-## Ongoing Projects
-- Development of privacy-preserving workflows for clinical and EHR-based data analysis
-- Longitudinal modeling approaches for metabolic risk and physiological variability
-- Integration of wearable-derived metrics with clinical biomarkers
+### Botanical Medicine as a Systems-Level Therapeutic Language
 
-(Additional project details forthcoming.)
+Parallel to the framework work, I am developing a structured approach 
+to botanical medicine that moves beyond isolated herb-condition 
+correspondences toward a systems-level therapeutic model. This includes 
+mapping herbal actions onto organ-network patterns, developing 
+polyherbal reasoning frameworks, and building evidence-informed 
+protocols grounded in integrative physiology.
 
+---
 
-## Collaboration
-welcome collaboration with researchers, clinicians, and organizations working with healthcare data, clinical analytics, or systems-oriented approaches to physiology and disease modeling.
+## Applied Research & Tool Development
 
-My interests include clinical data analysis, longitudinal modeling, interpretable analytics, and the integration of physiological and digital health datasets. Potential collaborations may involve retrospective EHR studies, cohort-based analyses, digital health data interpretation, or methodological development.
+### Clinical Decision-Support for Integrative Practitioners
 
-For research or applied analytics collaborations:
+I am developing a clinical decision-support platform designed for 
+integrative and naturopathic practitioners. The system provides 
+structured navigation from presenting condition → organ-pattern → 
+herb and protocol recommendations, built on the theoretical frameworks 
+described above.
+
+The platform is intended as a knowledge layer for practitioners working 
+with complex, multisystem presentations — supporting pattern recognition, 
+treatment planning, and continuing education simultaneously.
+
+### Clinical Data Science & Informatics
+
+My applied research background includes a postdoctoral fellowship in 
+bioinformatics and computational biomedicine at Oregon Health & Science 
+University (OHSU), with a focus on multimodal clinical data, 
+longitudinal modeling, and EHR-based analytics.
+
+Current analytical interests include:
+
+- Longitudinal and time-dependent patterns in real-world clinical data
+- Physiological variability and autonomic metrics (HRV, wearable-derived 
+  signals) as indicators of regulatory resilience
+- EHR-based phenotyping and cohort analysis methods
+- Interpretable modeling approaches connecting quantitative patterns to 
+  clinically meaningful phenomena
+- Integration of traditional medicine pattern frameworks with 
+  quantitative clinical datasets
+
+---
+
+## Writing & Dissemination
+
+Research findings, theoretical developments, and clinical frameworks are 
+disseminated through my Substack publication and through the practitioner 
+mentorship group, where emerging frameworks are tested against real-world 
+clinical cases. I am working toward formal publication of key theoretical 
+contributions.
+
+---
+
+## Consulting & Collaboration
+
+I am available for consulting and collaborative projects in medical and 
+naturopathic data science. This includes:
+
+- Clinical data analysis and EHR-based research
+- Longitudinal modeling and physiological variability analysis
+- Decision-support tool development for integrative practice
+- Systems-oriented frameworks for chronic disease research
+- Wearable and digital health data interpretation
+
+I welcome collaboration with researchers, clinicians, practitioners, and 
+organizations working at the intersection of integrative medicine and 
+clinical data science.
+
 📧 [drpkalnins@gmail.com](mailto:drpkalnins@gmail.com)
