@@ -7,35 +7,44 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.png
 excerpt: >
-  Healthcare Analytics • Clinical Data • Systems & Physiology
+  Naturopathic Physician • Systems Medicine • Independent Research
 core_services:
   - image_path: /assets/images/telehealth.jpg
-    alt: "Telehealth"
-    title: "Telehealth"
-    excerpt: "Telemedicine consultations focused on complex, chronic, and systems-oriented health concerns, integrating nutritional, botanical, and physiology-based approaches."
+    alt: "Clinical Practice"
+    title: "Clinical Practice"
+    excerpt: "Telehealth consultations for complex and chronic health
+    concerns, integrating botanical medicine, nutritional therapy, and
+    systems-based clinical reasoning. Learn about my approach and services."
     url: "/patients/"
-
   - image_path: /assets/images/mentorship.png
-    alt: "Teaching"
-    title: "Teaching"
-    excerpt: "Individual mentorship and educational work for students and practitioners, emphasizing physiology, clinical reasoning, and systems-based thinking."
+    alt: "Teaching & Writing"
+    title: "Teaching & Writing"
+    excerpt: "Practitioner mentorship, a Substack publication on systems
+    medicine, and a library of recorded lectures for students and
+    clinicians exploring integrative and physiological frameworks."
     url: "/teaching/"
-
   - image_path: /assets/images/data-science.jpg
-    alt: "Research"
-    title: "Research"
-    excerpt: "Healthcare and clinical data analysis exploring longitudinal patterns, physiological systems, and interpretable modeling using real-world datasets."
+    alt: "Research & Consulting"
+    title: "Research & Consulting"
+    excerpt: "Independent research developing systems-medicine frameworks,
+    clinical decision-support tools, and integrative physiology models.
+    Consulting available for medical and naturopathic data science projects."
     url: "/research/"
-
 ---
-
 ## Welcome
 
-I’m Paul Kalnins, ND, MS — a healthcare analytics and clinical data professional with a background in clinical medicine and physiology. My work spans data analysis, research, writing, and education, with a focus on understanding complex health processes through quantitative and systems-oriented perspectives.
+I'm Paul Kalnins, ND, MS — a naturopathic physician and independent researcher with a clinical background spanning thirty years of practice, biomedical research, healthcare data science, and integrative medicine education.
+
+My work is grounded in salutogenic medicine: understanding the conditions that generate and sustain health, not only those that disrupt it. I draw on systems science, TCM organ-network theory, anthroposophical medicine, and neuroendocrine-immune physiology to develop frameworks that bridge traditional healing and modern biology — in the clinic, in the classroom, and in the literature.
+
+I see patients via telehealth, mentor integrative practitioners, write for a professional audience, and take on consulting projects in medical and naturopathic data science.
+
+*Whether you're here as a patient, a practioner, or a collaborator -- welcome!*
+
 
 ---
 
-## Core Activities
+## What I Do
 
 {% include feature_row id="core_services" %}
 
