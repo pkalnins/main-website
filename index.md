@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.png
 excerpt: >
-  Naturopathic Physician • Systems Medicine • Independent Research
+  Naturopathic Physician • Systems Medicine • Integrative Research
 core_services:
   - image_path: /assets/images/telehealth.jpg
     alt: "Clinical Practice"
@@ -35,11 +35,11 @@ core_services:
 
 I'm Paul Kalnins, ND, MS — a naturopathic physician and independent researcher with a clinical background spanning thirty years of practice, biomedical research, healthcare data science, and integrative medicine education.
 
-My work is grounded in salutogenic medicine: understanding the conditions that generate and sustain health, not only those that disrupt it. I draw on systems science, TCM organ-network theory, anthroposophical medicine, and neuroendocrine-immune physiology to develop frameworks that bridge traditional healing and modern biology — in the clinic, in the classroom, and in the literature.
+My work is grounded in salutogenic medicine: understanding the conditions that generate and sustain health, not only those that disrupt it. I draw on systems science, the organ-network theories of Asian classical medicine, anthroposophical medicine, and neuroendocrine-immune physiology to develop frameworks that bridge traditional healing and modern biology — with a particular interest in botanical medicine as a systems-level therapeutic language. 
 
 I see patients via telehealth, mentor integrative practitioners, write for a professional audience, and take on consulting projects in medical and naturopathic data science.
 
-*Whether you're here as a patient, a practioner, or a collaborator -- welcome!*
+*Whether you're here as a patient, a practitioner, or a collaborator --- welcome!*
 
 
 ---
