@@ -3,7 +3,6 @@ layout: single
 permalink: /research/
 ---
 
-## Research
 
 My research sits at the intersection of integrative medicine theory, 
 systems physiology, and clinical data science. It has two broadly 
