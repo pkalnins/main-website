@@ -3,7 +3,6 @@ layout: single
 permalink: /teaching/
 ---
 
-## Teaching & Professional Education
 
 My teaching work spans an ongoing practitioner mentorship group, a 
 professional Substack publication, and a freely accessible archive of 
