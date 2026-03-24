@@ -31,7 +31,7 @@ core_services:
 ---
 ## Welcome
 
-*Naturopathic Physician • Systems Medicine • Integrative Research*
+*Naturopathic Physician • Informational Medicine • Independent Research*
 
 I'm Paul Kalnins, ND, MS — a naturopathic physician and independent researcher with thirty years of clinical practice, a background in biomedical data science, and a long-standing conviction that medicine is working with the wrong map.
 Modern medicine — including much of integrative medicine — treats the body as a sophisticated molecular machine. Remedies are chemical agents. Disease is damage or deficiency. Healing is repair or replacement. That model has real power in acute care. But for chronic disease, for understanding what actually sustains health and organizational coherence in living systems, it is increasingly inadequate — and I think fundamentally mistaken at the ontological level.
