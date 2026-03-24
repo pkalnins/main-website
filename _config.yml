@@ -1,7 +1,7 @@
 
 # Site settings
 title: "Paul Kalnins, ND, MS"
-subtitle: "Systems Medicine & Integrative Research"
+subtitle: "Salutogenic Medicine & Integrative Research"
 email: "drpkalnins@gmail.com"
 description: >-
   Naturopathic physician and independent researcher in systems medicine, 
@@ -28,10 +28,7 @@ sass:
 author:
   name: " "
   avatar: "/assets/images/paul.jpg"
-  bio: "Naturopathic physician and independent researcher working at the 
-  intersection of systems science, traditional medicine, and modern 
-  neuroendocrine-immune physiology. Clinician, educator, and writer — 
-  with a focus on salutogenic medicine and botanical therapeutics."
+  bio: "Naturopathic physician and independent researcher developing a rigorous framework for informational medicine — where remedies restore organizational coherence rather than replace missing molecules. Clinician, educator, and writer."
   location: "Portland, OR"
   links:
     - label: "Email"
